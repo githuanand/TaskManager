@@ -17,3 +17,16 @@ A full-stack **Task Management System** built using the **MERN stack (MongoDB, E
 **Authentication:** JWT, bcrypt  
 
 ## 📂 Project Structure
+TaskManager/
+│
+├── backend/ # Express + MongoDB API
+│ ├── models/
+│ ├── routes/
+│ └── server.js
+│
+├── frontend/ # React UI
+│ ├── src/components/
+│ ├── src/App.jsx
+│ └── vite.config.js
+│
+└── .gitignore
