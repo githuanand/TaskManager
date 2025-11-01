@@ -31,7 +31,10 @@ TaskManager/
 │
 └── .gitignore
 
-#Created by 
+# Created by 
+
 Anand Mohan Jha
-linked-in: (https://www.linkedin.com/in/anand-mohan-jha-55843924a/)
+
 📍 Full Stack Developer | Python & MERN | Data Analysis Enthusiast
+
+linked-in: (https://www.linkedin.com/in/anand-mohan-jha-55843924a/)
